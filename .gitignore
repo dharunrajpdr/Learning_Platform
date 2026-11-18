@@ -2,3 +2,5 @@ target/
 .idea/
 *.iml
 .DS_Store
+resources/db.properties
+src/main/resources/db.properties
